@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I’m a researcher at the [Dynamic Legged Systems lab](https://dls.iit.it/) of the Italian Institute of Technology, Genova, Italy.
+
+- 🌱 My research mainly focuses on ✨ Legged Robot's State Estimation ✨ ([Google Scholar Profile](https://scholar.google.com/citations?user=6JUhUywAAAAJ&hl=it&oi=ao))
+- 📫 How to reach me: ylenianistico95@gmail.com
 
 <!--
 **ylenianistico/ylenianistico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
